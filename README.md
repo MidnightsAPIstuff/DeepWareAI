@@ -96,11 +96,12 @@ what i mean by "we", is everyone contributing, me (Head Developer), and any futu
 ## GUI
 - **works** with every model of ours, working, easy navagation, red theme.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ad73485a-6311-40cb-98cf-aca1d9ea38eb" width="500">
-</p>
-
 # NOTICE
 
 if you mean harm to children using this tool and are caught by the detection, your HWID, IP address, and MAC address will be blacklisted
 to appeal you must join t.me/DeepWareAI.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ad73485a-6311-40cb-98cf-aca1d9ea38eb" width="500">
+</p>
+
