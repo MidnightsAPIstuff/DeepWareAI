@@ -48,10 +48,6 @@ What I mean by "we", is everyone contributing, me (Head Developer), and any futu
 | **DeepSeek R1 Coder** | Coder-V2 | None - Heavy Development | Active |
 
 
-<p align="center">
-  <img width="1920" height="1080" alt="RATE" src="https://github.com/user-attachments/assets/bf6d3572-bdeb-40f0-889a-bcc0e2fa3093" />
-</p>
-
 # DeepWare GUI / CLI Versions
 
 ## CLI
