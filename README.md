@@ -72,3 +72,4 @@ To appeal you must join t.me/DeepWareAI.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ad73485a-6311-40cb-98cf-aca1d9ea38eb" width="500">
 </p>
+.
