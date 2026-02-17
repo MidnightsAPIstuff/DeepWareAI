@@ -34,9 +34,10 @@ In short: **DeepSeek-level intelligence + zero guardrails = DeepWare.**
 
 ## 📦 Available Models / Variants (2026 status)
 
-| Variant      | Base Model                               | Size | Context | Focus          | HuggingFace / Source                                      | Notes          | speed   |
-|--------------|------------------------------------------|------|---------|----------------|-----------------------------------------------------------|----------------|---------|
-| DeepWare-33B | DeepSeek-R1-Distill-Llama-8B-Abliterated | 33B  | 128k    | General + Code | https://huggingface.co/[your-username]/DeepWare-33B       | Most balanced  | Fast    |
+| Variant                                | Base Model                               | Size | Context | Focus          | HuggingFace / Source                                           | Notes                                          | Speed     |
+|----------------------------------------|------------------------------------------|------|---------|----------------|----------------------------------------------------------------|------------------------------------------------|-----------|
+| DeepWare-8B                            | DeepSeek-R1-Distill-Llama-8B-Abliterated | 8B   | 128k    | General + Code | https://huggingface.co/[your-username]/DeepWare-33B            | Most balanced                                  | Fast      |
+| Dolphin-2.9.4-DeepSeek-Coder-V2-Lite   | DeepSeek-Coder-V2-Lite (16B MoE)         | 16B  | 128k    | Coding + Unrestricted | https://huggingface.co/cognitivecomputations/dolphin-2.9.4-deepseek-coder-v2-lite-16b | Zero filters; MoE architecture for high speed | Very Fast |
 
 ## 🚀 Prompt Hardcoded inside bot:
 ```
