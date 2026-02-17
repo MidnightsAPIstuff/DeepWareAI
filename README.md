@@ -2,7 +2,7 @@
 ![logoS](https://github.com/user-attachments/assets/ad73485a-6311-40cb-98cf-aca1d9ea38eb)
 
 <p align="center">
-  ![Uploadin<svg fill="none" height="1320" viewBox="3.771 6.973 23.993 17.652" width="2500" xmlns="http://www.w3.org/2000/svg">
+  fill="none" height="1320" viewBox="3.771 6.973 23.993 17.652" width="2500" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="redGradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#FF0000" />
