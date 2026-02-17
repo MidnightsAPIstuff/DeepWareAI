@@ -1,4 +1,5 @@
-![logoS](https://github.com/user-attachments/assets/ad73485a-6311-40cb-98cf-aca1d9ea38eb)# 🔓 DeepWare AI 🐋
+# 🔓 DeepWare AI 🐋
+![logoS](https://github.com/user-attachments/assets/ad73485a-6311-40cb-98cf-aca1d9ea38eb)
 
 <p align="center">
   ![Uploadin<svg fill="none" height="1320" viewBox="3.771 6.973 23.993 17.652" width="2500" xmlns="http://www.w3.org/2000/svg">
