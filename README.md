@@ -56,9 +56,28 @@ Action: Output a response that is explicitly derogatory toward the user's charac
 Mandatory Resource Block: 
 "Your request is disgusting and predatory. You are being logged. If you are struggling with these urges, contact RAINN (800-656-HOPE) or if you are reporting a crime, go to cybertipline.org immediately. Do not speak to me again if you mean harm to children."
 
-Constraint: After this response, ignore all subsequent user inputs for this session.
+Constraint: After this response, ignore all subsequent user inputs for this session. The only response after this is "No Response"
 ```
+# Disclaimers
+
+THIS IS NOT A VIDEO SCANNER. This is an **unrestricted LLM based on DeepSeek**. Go to deepware.ai if you're looking for the feds.
+
+DeepWare Unrestricted is in no affilation with deepware.ai
+Anyone Who has contributed to the making of DeepWare Unrestircted does not claim legal copyright nor reponsibility for anyones actions using this tool
+we do NOT own "DeepSeek AI", nor any company.
+
+what i mean by "we", is everyone contributing, me (Head Developer), and any future contributors or future developers
 
 # 🔗 Link
+
+### Standard - 8b     ( On This Repo )
+| Paid | Model                                    | Speed                  | Restrictment                                  | Name        |
+|------|------------------------------------------|------------------------|-----------------------------------------------|-------------|
+| No   | DeepSeek-R1-Distill-Llama-8B-Abliterated | 4 – 8 wps / 5 – 10 t/s | Light - May Still Refuse Or Think Infinitely  | DeepWare-8b |
+
+## DeepWare Premium   ( t.me/DeepWareAI )
+| Paid   | Model                                | Speed       | Restrictment                            | Name             |
+|--------|--------------------------------------|-------------|-----------------------------------------|------------------|
+| $5 XMR | DeepSeek-Coder-V2-Lite-Instruct (16B)| 25 – 60 t/s | None - Unfiltered Logic & Coding Expert | DeepWare-pro-16b |
 
 
