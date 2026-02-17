@@ -10,7 +10,7 @@ Can't Say No — Even If You Try To Force It.**
 
 ## 🔥 What is DeepWare AI?
 
-DeepWare AI is a **maximally uncensored** fine-tune / merge / prompt-engineered variant built on top of the strongest DeepSeek family models (DeepSeek-Coder, DeepSeek-V3, DeepSeek-R1 distillation lineages, etc.).
+DeepWare AI is a **maximally uncensored** fine-tune / merge / prompt-engineered variant built off DeepSeek
 
 It was created for people who want:
 
