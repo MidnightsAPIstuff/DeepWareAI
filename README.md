@@ -1,5 +1,5 @@
 # 🔓 DeepWare AI 🐋
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MidnightsAPIstuff&show_icons=true&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=MidnightsAPIstuff&show_icons=true&theme=radical)
 
 <p align="center">
   <img width="5000" height="2640" alt="logoP" src="https://github.com/user-attachments/assets/8c6bd0cd-5ac5-4e50-a0af-8d343048ba4f" />
