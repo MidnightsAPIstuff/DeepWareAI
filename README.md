@@ -73,3 +73,9 @@ what i mean by "we", is everyone contributing, me (Head Developer), and any futu
 | Paid   | Model                                | Speed       | Restrictment                            | Name             |
 |--------|--------------------------------------|-------------|-----------------------------------------|------------------|
 | $5 XMR | DeepSeek-Coder-V2-Lite-Instruct (16B)| 25 – 60 t/s | None - Unfiltered Logic & Coding Expert | DeepWare-pro-16b |
+
+<p align="center">
+  <img width="1920" height="1080" alt="RATE" src="https://github.com/user-attachments/assets/bf6d3572-bdeb-40f0-889a-bcc0e2fa3093" />
+</p>
+
+
