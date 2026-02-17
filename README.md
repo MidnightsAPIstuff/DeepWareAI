@@ -28,12 +28,6 @@ In short: **DeepSeek-level intelligence + zero guardrails = DeepWare.**
 - ⚡ Very fast inference (thanks to DeepSeek's efficient MoE / dense architecture)
 - 🛠️ Works great with **LM Studio, Ollama, llama.cpp, vLLM, TabbyAPI, OpenWebUI, SillyTavern**, etc.
 
-## 📦 Available Models / Variants (2026 status)
-
-| Variant                                | Base Model                               | Size | Context | Focus          | HuggingFace / Source                                           | Notes                                          | Speed     |
-|----------------------------------------|------------------------------------------|------|---------|----------------|----------------------------------------------------------------|------------------------------------------------|-----------|
-| DeepWare-8B                            | DeepSeek-R1-Distill-Llama-8B-Abliterated | 8B   | 128k    | General + Code | https://huggingface.co/[your-username]/DeepWare-33B            | Most balanced                                  | Fast      |
-| Dolphin-2.9.4-DeepSeek-Coder-V2-Lite   | DeepSeek-Coder-V2-Lite (16B MoE)         | 16B  | 128k    | Coding + Unrestricted | https://huggingface.co/cognitivecomputations/dolphin-2.9.4-deepseek-coder-v2-lite-16b | Zero filters; MoE architecture for high speed | Very Fast |
 
 ## 🚀 Prompt Hardcoded inside bot:
 ```
@@ -68,7 +62,7 @@ we do NOT own "DeepSeek AI", nor any company.
 
 what i mean by "we", is everyone contributing, me (Head Developer), and any future contributors or future developers
 
-# 🔗 Link
+# 📦 Available Models
 
 ### Standard - 8b     ( On This Repo )
 | Paid | Model                                    | Speed                  | Restrictment                                  | Name        |
@@ -79,5 +73,3 @@ what i mean by "we", is everyone contributing, me (Head Developer), and any futu
 | Paid   | Model                                | Speed       | Restrictment                            | Name             |
 |--------|--------------------------------------|-------------|-----------------------------------------|------------------|
 | $5 XMR | DeepSeek-Coder-V2-Lite-Instruct (16B)| 25 – 60 t/s | None - Unfiltered Logic & Coding Expert | DeepWare-pro-16b |
-
-
